@@ -1,5 +1,11 @@
 # quicha
 Quixadá Challenge | dev.academy
+
+## Challenge 1 and 2 requirements
+**Prophet**
+
+pip install fbprophet
+
 ## Challenge 3 requirements
 Octave with Statistics pakage:
 sudo apt install octave
